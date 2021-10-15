@@ -132,9 +132,9 @@
     <!-- Start Cookies-->
     <div class="container-cookies">
         <div class="content">
-            <h3> {{$content->title}}</h3>
+            <h3> </h3>
             <p>
-               {{$content->body}}
+               
             </p>
             <div class="actions">
                 <button>OK</button>
