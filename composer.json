@@ -13,7 +13,7 @@
         "laravel/framework": "^6.20.26",
         "laravel/tinker": "^2.5",
         "tcg/voyager": "^1.5" ,
-        "ext-gd":" *"
+        "gd":" *"
     },
     "require-dev": {
         "facade/ignition": "^1.16.15",
