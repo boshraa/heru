@@ -76,7 +76,7 @@
   <!-- End Navbar-->
   <!-- Start Main-->
     <main>
-        <div class="img-back" style="background-image: url('{{ Voyager::Image($content->image) }}')">
+        <div class="img-back" >
           <div class="main-content overlay">
             <h1 class="main-title">we make <span class="typed"></span></h1>
             <div class="choices">
