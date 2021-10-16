@@ -15,7 +15,7 @@ class CreateMainContentsTable extends Migration
     {
         Schema::create('main_contents', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('image')->nullable();
+           // $table->string('image')->nullable();
             $table->string('title')->nullable();
             $table->text('body');
 
